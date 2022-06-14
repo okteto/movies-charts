@@ -7,7 +7,7 @@ In order to push charts to the Okteto Registry, follow the following steps:
 
 ## Requirements
 
-- Make sure your user has admin access to Okteto. This makes it possible to push to the `okteto` namespace in the Okteto Registry. Only admins can push the the `okteto` namespace, but all users will be able to pull from the `okteto` namespace.
+- Make sure your user has admin access to Okteto. This makes it possible to push to the `okteto` namespace in the Okteto Registry. Only admins can push the `okteto` namespace, but all users will be able to pull from the `okteto` namespace.
 
 - Install `helm` >= 3.8.0
 
